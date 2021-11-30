@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/miguelardon/Desktop/Courses/Flutter/Code/Initial-flutter/i_am_rich/build/app/intermediates/res/merged/debug/mipmap-mdpi_imrich_images.png.flat",
+        "source": "/Users/miguelardon/Desktop/Courses/Flutter/Code/Initial-flutter/i_am_rich/android/app/src/main/res/mipmap-mdpi/imrich_images.png"
+    },
+    {
+        "merged": "/Users/miguelardon/Desktop/Courses/Flutter/Code/Initial-flutter/i_am_rich/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/miguelardon/Desktop/Courses/Flutter/Code/Initial-flutter/i_am_rich/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/miguelardon/Desktop/Courses/Flutter/Code/Initial-flutter/i_am_rich/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_imrich_images.png.flat",
+        "source": "/Users/miguelardon/Desktop/Courses/Flutter/Code/Initial-flutter/i_am_rich/android/app/src/main/res/mipmap-xxhdpi/imrich_images.png"
+    },
+    {
+        "merged": "/Users/miguelardon/Desktop/Courses/Flutter/Code/Initial-flutter/i_am_rich/build/app/intermediates/res/merged/debug/mipmap-hdpi_imrich_images.png.flat",
+        "source": "/Users/miguelardon/Desktop/Courses/Flutter/Code/Initial-flutter/i_am_rich/android/app/src/main/res/mipmap-hdpi/imrich_images.png"
+    },
+    {
+        "merged": "/Users/miguelardon/Desktop/Courses/Flutter/Code/Initial-flutter/i_am_rich/build/app/intermediates/res/merged/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/miguelardon/Desktop/Courses/Flutter/Code/Initial-flutter/i_am_rich/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/miguelardon/Desktop/Courses/Flutter/Code/Initial-flutter/i_am_rich/build/app/intermediates/res/merged/debug/mipmap-xhdpi_imrich_images.png.flat",
+        "source": "/Users/miguelardon/Desktop/Courses/Flutter/Code/Initial-flutter/i_am_rich/android/app/src/main/res/mipmap-xhdpi/imrich_images.png"
+    },
+    {
+        "merged": "/Users/miguelardon/Desktop/Courses/Flutter/Code/Initial-flutter/i_am_rich/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_imrich_images.png.flat",
+        "source": "/Users/miguelardon/Desktop/Courses/Flutter/Code/Initial-flutter/i_am_rich/android/app/src/main/res/mipmap-xxxhdpi/imrich_images.png"
+    }
+]
