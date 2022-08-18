@@ -30,7 +30,7 @@ class _MagicBallState extends State<MagicBall> {
       child: Row(
         children: [
           Expanded(
-            child: FlatButton(
+            child: TextButton(
               onPressed: () {
                 setState(() {
                   answerNumber = Random().nextInt(5) + 1;
